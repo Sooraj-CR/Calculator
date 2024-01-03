@@ -1,0 +1,38 @@
+.flex-container1{
+    height: 350px;
+    width: 340px;
+    background-color: black;
+    display: flex;
+    border-radius: 10px;
+    margin: auto;
+}
+/* .display{
+    height: 75px;
+    width: 400px;
+    background-color: black;
+    margin: 20px
+
+} */
+.button1{
+    height: 35px;
+    width: 57px;
+    margin: 12px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.textbox{
+    /* padding-left: 233px; */
+    margin: 15px;
+    height: 57px;
+    width: 303px;
+}
+#cancel{
+    background-color: red;
+    
+}
+#screen{
+    height: 53px;
+    font-size: 34px;
+    background: black;
+    color: white;
+}
